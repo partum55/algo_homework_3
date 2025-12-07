@@ -503,3 +503,5 @@ When compared to the established NetworkX library:
 This homework demonstrated that implementing fundamental graph algorithms from scratch provides deep insights into both theoretical computer science and practical software engineering. The resulting implementation is not only correct and efficient but also serves as a valuable educational tool for understanding edge covering and maximum matching problems.
 
 The comprehensive testing suite, including stress tests on graphs with thousands of vertices, confirms that the algorithm is production-ready for real-world applications requiring minimum edge cover computation.
+
+(c) All rights reserved.
